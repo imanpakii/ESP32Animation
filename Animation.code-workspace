@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "path": "Cubipax"
+        }
+    ],
+    "settings": {
+        "terminal.integrated.env.osx": {
+            "PATH": "/Users/imanyazdansepas/.platformio/penv/bin:/Users/imanyazdansepas/.platformio/penv:/Users/imanyazdansepas/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin",
+            "PLATFORMIO_CALLER": "vscode"
+        },
+        "files.associations": {
+            "*.tcc": "cpp",
+            "deque": "cpp",
+            "string": "cpp",
+            "unordered_map": "cpp",
+            "unordered_set": "cpp",
+            "vector": "cpp",
+            "string_view": "cpp",
+            "random": "cpp",
+            "ranges": "cpp",
+            "array": "cpp",
+            "memory": "cpp",
+            "initializer_list": "cpp",
+            "gpio.h": "c"
+        }
+    }
+}
